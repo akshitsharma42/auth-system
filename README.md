@@ -23,8 +23,8 @@ A secure authentication system built with Node.js, Express, and PostgreSQL, feat
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd auth-app
+git clone (https://github.com/akshitsharma42/auth-system.git)
+cd auth-system
 ```
 
 2. Install dependencies:
@@ -80,6 +80,3 @@ Required environment variables:
 - `RECAPTCHA_SECRET_KEY`: Google reCAPTCHA secret key
 
 
-## License
-
-This project is licensed under the ISC License. 
