@@ -8,10 +8,9 @@ A secure authentication system built with Node.js, Express, and PostgreSQL, feat
 - 📝 User registration with email validation
 - 🔒 Password hashing using bcrypt
 - 🛡️ Rate limiting for login attempts
-- ⏰ Session management with expiry warnings
 - 🤖 reCAPTCHA integration for enhanced security
-- 🎨 Modern and responsive UI
-- 🔄 Auto-reload during development
+
+
 
 ## Prerequisites
 
@@ -23,8 +22,8 @@ A secure authentication system built with Node.js, Express, and PostgreSQL, feat
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd auth-app
+git clone (https://github.com/akshitsharma42/auth-system.git)
+cd auth-system
 ```
 
 2. Install dependencies:
@@ -79,3 +78,7 @@ Required environment variables:
 - `RECAPTCHA_SITE_KEY`: Google reCAPTCHA site key
 - `RECAPTCHA_SECRET_KEY`: Google reCAPTCHA secret key
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b7ec0b84c0dad73a31902c13bc2de354a536486d
