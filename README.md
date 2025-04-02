@@ -79,7 +79,3 @@ Required environment variables:
 - `RECAPTCHA_SITE_KEY`: Google reCAPTCHA site key
 - `RECAPTCHA_SECRET_KEY`: Google reCAPTCHA secret key
 
-
-## License
-
-This project is licensed under the ISC License. 
