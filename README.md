@@ -8,10 +8,9 @@ A secure authentication system built with Node.js, Express, and PostgreSQL, feat
 - 📝 User registration with email validation
 - 🔒 Password hashing using bcrypt
 - 🛡️ Rate limiting for login attempts
-- ⏰ Session management with expiry warnings
 - 🤖 reCAPTCHA integration for enhanced security
-- 🎨 Modern and responsive UI
-- 🔄 Auto-reload during development
+
+
 
 ## Prerequisites
 
